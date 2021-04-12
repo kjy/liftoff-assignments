@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The idea for this project came from wanting to motivate and inspire people during the pandemic as so many people went through
+hard times.  This app will provide motivating and inspiring messages that the user inputs for their own interest. The user can
+also send messages to friends.
+
 ### Features
-Include Features here
+Feature 1: Sign up and login with authentication
+Feature 2: Create, Read, Update, Delete (CRUD operations) for messages
+Feature 3: Push notification
+
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+Using data from a public API
+Setting up a push notification
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/Cn3wMwJS/messages
