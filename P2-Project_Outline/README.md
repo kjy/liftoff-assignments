@@ -13,20 +13,31 @@ also send messages to friends.
 
 ### Features
 Feature 1: Sign up and login with authentication
+
 Feature 2: Create, Read, Update, Delete (CRUD operations) for messages
+
 Feature 3: Push notification
+
 
 ### Technologies
 Java
+
 Spring Boot
+
 MySQL
+
 Hibernate
+
 Thymeleaf templates
+
 
 ### What I'll Have to Learn
 
 Using data from a public API
+
 Setting up a push notification
 
+
 ### Project Tracker
+
 https://trello.com/b/Cn3wMwJS/messages
