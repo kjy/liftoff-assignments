@@ -7,9 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The idea for this project came from wanting to motivate and inspire people during the pandemic as so many people went through
-hard times.  This app will provide motivating and inspiring messages that the user inputs for their own interest. The user can
-also send messages to friends.
+The idea for this project came from wanting to motivate and inspire people during the pandemic. The user will first register for a new account, with validation of email. Next, the user will be able to view all messages, create new messages, as well as modify and delete messsages.   This app will provide motivating and inspiring messages that the user tracks for their own interest, like a reminder. Finally, the user can also send messages to friends via a push notification. 
 
 ### Features
 Feature 1: Sign up and login with authentication
@@ -33,7 +31,9 @@ Thymeleaf templates
 
 ### What I'll Have to Learn
 
-Using data from a public API
+CRUD (new learnings will be update and delete)
+
+Using data from a public API   https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/
 
 Setting up a push notification
 
