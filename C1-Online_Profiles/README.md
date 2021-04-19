@@ -9,7 +9,8 @@ For this assignment you will need to upload your resume and provide links to you
 ### GitHub
 Provide a link to your GitHub account here.
 
-https://github.com/kjy.git
+https://github.com/kjy
+
 
  
 ### LinkedIn
