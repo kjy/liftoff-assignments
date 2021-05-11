@@ -7,42 +7,47 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Have you ever wanted someone to send you an optimistic or cheery message on a rainy day? The idea for this project came from wanting to motivate and inspire people during the pandemic. The user will first register for a new account, with validation of email. Next, the user will be able to view all messages, create new messages, as well as modify and delete messages.   This app will allow the user to track their own messages for their own interest, like a reminder or a mantra. Finally, the user can also send their messages to themselves or to friends via a push notification. This app may also include a search and find friend feature.  A web app that tracks motivational and inspirational messages.  
+A web app that tracks motivational and inspirational messages.  The idea for this project came from wanting to motivate and inspire people during the pandemic. The user will first register, allowing for login authentication. Next, the user will be able to view all messages, create new messages, as well as modify and delete messages.   This app will allow the user to track their own messages for their own interest, like a reminder or a mantra.  This app includes pulling and displaying weather data. Finally, another feature includes a gallery of images with randomly selected messages.  
 
 ### Features
 Feature 1: Sign up and login with authentication
 
 Feature 2: Create, Read, Update, Delete (CRUD operations) for messages
 
-Feature 3: Push notification
+Feature 3: Pull weather data, using API
 
-Feature 4: Search and find friends
-
-Feature 5: Pull weather data, using API
-
+Feature 4: Gallery of images with randomly selected messages
 
 ### Technologies
-Java
+Java programming language
 
-Spring Boot
+Maven dependency management
 
-MySQL
+Spring Boot/ Spring Framework
 
-Hibernate
+MySQL/MySQL workbench
+
+Spring Data JPA (Hibernate)
 
 Thymeleaf templates
 
+### Application Architecture
+
+Frontend: Thymeleaf template to render HTML, CSS, and bootstrap to browser
+
+Backend:  Controller (View), Service (Business Logic), Repository (DAO-CRUD)
+
+Database: MySQL
 
 ### What I'll Have to Learn
 
-CRUD (new learnings will be update and delete)
+Register and login authentication
+
+CRUD application for messages
 
 Using data from a public API   https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/
 
-Setting up a push notification
-
-Search and find
-
+Gallery of images and messages
 
 ### Project Tracker
 
