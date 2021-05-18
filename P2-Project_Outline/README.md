@@ -7,16 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-A web app that tracks motivational and inspirational messages.  The idea for this project came from wanting to motivate and inspire people during the pandemic. The user will first register, allowing for login authentication. Next, the user will be able to view all messages, create new messages, as well as modify and delete messages.   This app will allow the user to track their own messages for their own interest, like a reminder or a mantra.  This app includes pulling and displaying weather data. Finally, another feature includes a gallery of images with randomly selected messages.  
+A web app that tracks motivational and inspirational messages.  The idea for this project came from wanting to motivate and inspire people during the pandemic. The user will first register, allowing for login authentication. Next, the user will be able to view, create, modify and delete messages.   This app will allow the user to track their own messages for their own interest.  Another feature includes a carousel or gallery of images that have captioned messages.  Finally, the app includes pulling and displaying weather data.   
 
 ### Features
-Feature 1: Sign up and login with authentication
+Feature 1: Sign up and login with authentication   COMPLETED
 
-Feature 2: Create, Read, Update, Delete (CRUD operations) for messages
+Feature 2: Create, Read, Update, Delete (CRUD operations) for messages     COMPLETED
 
-Feature 3: Pull weather data, using API
+Feature 3: Gallery of images with captioned messages    COMPLETED
 
-Feature 4: Gallery of images with randomly selected messages
+Feature 4: Pull weather data and display on website, using API    IN PROGRESS
 
 ### Technologies
 Java programming language
@@ -43,11 +43,11 @@ Database: MySQL
 
 Register and login authentication
 
-CRUD application for messages
+CRUD (Create, read, update, delete) features for messages
 
-Using data from a public API   https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/
+Using data from a public API with REST requests   https://openweathermap.org/
 
-Gallery of images and messages
+Carousel/Gallery of images with captioned messages
 
 ### Project Tracker
 
