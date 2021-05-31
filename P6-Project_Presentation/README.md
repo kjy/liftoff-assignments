@@ -10,3 +10,6 @@ We want to you to create a set of presentation slides summarizing your project.
 Upload a .PDF of your presentation here for review.
 
 [ProjectPresentation_Motivation&Inspiration_KarenYang.pdf](https://github.com/kjy/liftoff-assignments/files/6571033/ProjectPresentation_Motivation.Inspiration_KarenYang.pdf)
+
+Project Location:  https://github.com/kjy/motivationinspiration
+
